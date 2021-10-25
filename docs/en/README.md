@@ -22,7 +22,7 @@ It’s been ten years since I published [*Befriending Time*](https://item.jd.com
 
 >*Will this book still be useful to readers in ten years?*
 
-In addition to being bestsellers, my books are often perennial sellers. Here are my secrets for writing a book that continues to sell well over time: **simple**, **direct**, **brutal** and **effective**.
+In addition to being bestsellers, my books are often perennial sellers. The above-mentioned principle is my secret for writing many perennial sellers, which is **simple**, **direct**, **brutal** and **effective**.
 
 Because I have been writing in this simple, direct, brutal and effective way for so long, I have a deep understanding of the following fact: 
 
@@ -95,7 +95,7 @@ Let's take a look at an even more striking example. Suppose you started regularl
 
 >Note: The historical data in this chart is from [Yahoo Finance (Bitcoin USD)](https://finance.yahoo.com/quote/BTC-USD/history/), and the chart was created in Google Sheets; you can view the data and chart [here](https://docs.google.com/spreadsheets/d/1pzc6p4UhyAMtqaKis2_uU3hbi8Um34ArTiUQr1tZpc0/edit?usp=sharing).
 
-Even though you entered the market at the worst time, your investment has still been profitable in USD terms, with the red line (your assets in USD terms) passing the blue line (your total investment in USD terms) on May 6th, 2019. If you invested \$100 each week, by the 87th week you would have invested \$8,700, but your Bitcoin would have been worth \$16,417, for a gain of **88.71%**. This is despite the fact that Bitcoin remained 62.85% off of it's all-time high, which was when you started investing. 
+Even though you entered the market at the worst time, your investment has still been profitable in USD terms, with the red line (your assets in USD terms) passing the blue line (your total investment in USD terms) on May 6th, 2019. If you invested \$100 each week, by the 87th week you would have invested \$8,700, but your Bitcoin would have been worth \$16,417, for a gain of **88.71%**. This is despite the fact that Bitcoin remained 62.85% of it's all-time high, which was when you started investing. 
 
 This can seem really flabbergasting at first: 
 
@@ -560,7 +560,7 @@ This was the logical reasoning behind this feeling:
 
 >We've seen the incredible changes brought about by the Internet allowing information to flow rapidly with basically zero cost, so what kind of incredible changes would be brought about if assets could also flow rapidly with basically zero cost?
 >
->After ten years, the Internet is still bringing about massive change. Even if it isn't exactly what we initially imagined, it's still amazing. In the same way, ten years from now the financial Internet is extremely likely to have brought about incredible change, even if we can't know exactly what those changes will be...
+>After ten years, the Internet is still bringing about massive changes. Even if it isn't exactly what we initially imagined, it's still amazing. In the same way, ten years from now the financial Internet is extremely likely to have brought about incredible changes, even if we can't know exactly what those changes will be...
 
 So for me at the time, blockchain was the future, blockchain was a trend, and blockchain would likely be the fastest growing industry. Looking back from eight years later, it has become the fastest growing industry, and my investment has grown at a scale not even imaginable at the time.
 
@@ -709,7 +709,7 @@ In  January of 2021, more than 500 days after the establishment of the BOX Regul
 
 At this point, BOX has evolved into a rather mature "Digital Assets Index ETF". The following chart shows the returns on BOX from July 12th, 2017:
 
-<img src="https://raw.githubusercontent.com/xiaolai/regular-investing-in-box/master/data/box-historical-price-change.png" style="border-radius: 5px; border: 5px solid #ddd; max-width: 100%;"/>
+<img src="https://raw.githubusercontent.com/xiaolai/regular-investing-in-box/master/docs/images/box-historical-price-change.png" style="border-radius: 5px; border: 5px solid #ddd; max-width: 100%;"/>
 
 > Note: [Click this link to see the orignal data](https://github.com/xiaolai/regular-investing-in-box/tree/master/data)
 
@@ -1056,7 +1056,7 @@ It's easy to despair when looking at research done by psychologists around the w
 
 [Daniel Kahneman](https://en.wikipedia.org/wiki/Daniel_Kahneman), who won the Nobel Prize in Economics in 2002, and his research partner, [Amos Tversky](https://en.wikipedia.org/wiki/Amos_Tversky), discovered many years ago that people have an extreme aversion to loss. We've already mentioned several times that the pain of losing a dollar greatly exceeds the pleasure of gaining a dollar. Actually, even the way that we describe something can lead to different choices. 
 
-For instance, [a paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2631940/) by Benedetto De Martino and his collaborators describes an experiment in which participants were told that they had received an amount of money, such as fifty British pounds. They were told that they would not necessarily be able to keep all of the money, but would instead have to choose between a "sure" option, in which they would keep a portion of the money, and a "gamble" option, in which they would either keep all of the money of lose all of the money. The expected outcomes of both options were the same, meaning that the average results of the "gamble", if repeated over time, would be the same as the "sure" option. For each round of the experiment, subjects were split into two groups, with the only difference being that the "sure" option was framed in different ways:
+For instance, [a paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2631940/) by Benedetto De Martino and his collaborators describes an experiment in which participants were told that they had received an amount of money, such as fifty British pounds. They were told that they would not necessarily be able to keep all of the money, but would instead have to choose between a "sure" option, in which they would keep a portion of the money, and a "gamble" option, in which they would either keep all of the money or lose all of the money. The expected outcomes of both options were the same, meaning that the average results of the "gamble", if repeated over time, would be the same as the "sure" option. For each round of the experiment, subjects were split into two groups, with the only difference being that the "sure" option was framed in different ways:
 
 > * Gain frame: you can keep 20 out of the 50 pounds.
 > * Loss frame: you will lose 30 out of the 50 pounds. 
@@ -1077,7 +1077,7 @@ The most interesting part of the experiment was perhaps the post-experiment inte
 
 This is really scary. Even when we know what is going on, we still can't control ourselves.
 
-The results of this experiment should leave serious investors like us speechless and terrified. Why? Because we are investing with our own money, not just twenty British pounds. And we're not just investing with the money that we have today, but also with our future money and time, and with the money that we hope our money will make in the future. We have our money, our time, and what we believe to be a correct goal, but now we see that sometimes we may be unable to stop ourselves from making a wrong or even catostrophic decision, even when we know exactly what is happening! Could anything be more terrifying than this? It's like a ghost story or horror movie! Ghost stories are all the same, from east to west, from past to present, and you can sum them up in one sentence: for some reason, the main character sees themself moving toward destruction, but there is nothing they can do, even though they can see it happening, because they can't control themself...
+The results of this experiment should leave serious investors like us speechless and terrified. Why? Because we are investing with our own money, not just twenty British pounds. And we're not just investing with the money that we have today, but also with our future money and time, and with the money that we hope our money will make in the future. We have our money, our time, and what we believe to be a correct goal, but now we see that sometimes we may be unable to stop ourselves from making a wrong or even catastrophic decision, even when we know exactly what is happening! Could anything be more terrifying than this? It's like a ghost story or horror movie! Ghost stories are all the same, from east to west, from past to present, and you can sum them up in one sentence: for some reason, the main character sees themself moving toward destruction, but there is nothing they can do, even though they can see it happening, because they can't control themself...
 
 This experiment still wasn't over, though. As the subjects made their choices, the researchers monitored their brain activity using functional magnetic resonance imaging technology (fMRI), and they observed an incredible phenomenon.
 
@@ -1417,30 +1417,19 @@ October 2019, Beijing
 **Conflict of Interest Notice**
 >
 > * I am a long-term holder of BTC (from May of 2011)
-> * I was an angel investor in BlockOne, which developed EOS (May of 2017)
+> * I was an angel investor in BlockOne, which developed EOS (initial investment in May of 2017; all shares sold in 2018)
 > * I was an angel investor in Mixin Network (October of 2017)
 
-[BOX](https://b.watch/) is an abbreviation for **B**tc + e**O**s + **X**in, and it is a "box" of these three assets. The purchase and redemption of BOX can be done on the [b.watch](https://b.watch/) website. 
+[BOX](https://b.watch/) is an abbreviation for **B**tc + e**O**s + **X**in, which were the original three components of BOX. BOX is a "box" of assets, and as time goes on new assets will be added. The purchase and redemption of BOX can be done on the [b.watch](https://b.watch/) website. 
 
-### 1.1 Details of BOX
+### 1.1 Introduction to BOX
 
-Quite simply, BOX is **a blockchain token that tracks a basket of mainstream blockchain assets**. Its components are as follows:
+BOX is **a blockchain token that tracks a basket of mainstream blockchain assets**.
 
-> * 1 BTC
-> * 1500 EOS
-> * 8 XIN
->
-> ------
->
-> = 10,000 BOX
 
-Put another way, to exchange for 1 BOX, you would need 0.0001 BTC + 0.15 EOS + 0.00008 XIN.
 
-> * You can use the respective amounts of BTC, EOS, and XIN to exchange for BOX.
-> * After meeting certain conditions, you can also redeem BOX for the respective amounts of BTC, EOS, and XIN.
-> * You can also use USDT to directly purchase BOX on secondary markets. 
-
-The necessary conditions to redeem BOX for BTC, EOS, and XIN are as follows:
+The conditions for redeeming BOX are as follows:
+ 
 
 > If the market value of your BOX exceeds \$100,000, the redemption fee is 1%.
 > Alternatively, you can sell it directly on a secondary market, in which case both parties will be charged a commission of 0.1%.
@@ -1448,73 +1437,11 @@ The necessary conditions to redeem BOX for BTC, EOS, and XIN are as follows:
 
 BOX is an ETF product, but it is different from the funds you have seen before, in that it doesn't charge a management fee. Why? Because I don't want to earn a management fee. And I am also regularly investing in BOX.
 
-BOX is 100% open and transparent. The addresses in which assets are held are public, and you can check them at any time. All of the records are on the Mixin public chain, and you can find instructions to check the addresses on the b.watch website. How much BTC, EOS, and XIN are in BOX? How many corresponding BOX tokens are circulating? How many BOX tokens are still in "cold storage" (including those for future distribution and those that have been redeemed)? The data to answer all of these questions are open and transparent, so it is easy to check the current issuance of BOX and confirm its underlying assets. If BOX is listed on any exchange, users can use also use this data to confirm that the exchange is not artificially inflating the supply of BOX. (As to why this is important, it will take a novice some time to learn and understand.)
-
-### 1.2 The Advantages of BOX
-
-The components and allocation of BOX were determined in accordance with the following principles.
-
-### 1.2.1 It is best to invest in mainstream blockchain assets
-
-In the new round of trends, mainstream blockchain assets will receive disproportionate attention. The market has been educated by the bull and bear markets of 2017 and 2018, and the "blind optimism" around new tokens has been fully deflated. Projects that raised millions just based on writing a white paper have been discredited. In the new round, the assets that may see huge appreciation are either mainstream assets or multi-level marketing (MLM) assets. The reason to stay away from MLM assets isn't that they can't make money -- actually, they can make a lot of money! -- but because they can't succeed over the long term, and are thus not suitable choices for regular investing. Regular investors invest through more than one cycle, and thus they can only choose long-term investments. So, between mainstream assets and MLM assets, we can only choose mainstream assets. 
-
-### 1.2.2 The internal logic of the development of blockchain technology
-
-After eight years of observation, investment, practice and thinking, I believe that there is a development path that blockchain technology will follow in changing the world:
-
-> Trusted ledger (BTC) → Trusted platform for code (ETH/EOS) → Trusted execution environment (Mixin) → Trusted hardware (?) ...
-
-Actually, this is also the investment path I have followed. After bitcoin, the exchange that I invested in, Yunbi, became the first exchange to list Ethereum (ETH), and I was an angel investor in EOS and Mixin. The core of successful investing is investing in accordance with the way things are developing, which befriends trends and allows trends to constantly work in favor of your investments, rather than allowing trends to become enemies and obstacles to your investments. 
-
-The choice of components of BOX is in accordance with the internal logic of the development of blockchain technology.
-
-As to why EOS was chosen instead of ETH, despite the fact that ETH appeared before EOS in the trusted code stage, the difference between them is like the difference between DOS and Windows, in that EOS is multithreaded. Furthermore, BlockOne, the technical team behind EOS, is one of the most well-funded teams in the space, so EOS is a more reliable choice and is more likely to be successful over the long term.
-
-When our investments go from an individual investment (like BTC) to a combination of investments (like BOX), we both reduce opportunity cost and change from investing in one project to investing in an entire industry. This is an extremely reliable way to reduce risk.
-
-### 1.2.3 Thoughts on allocation
-
-As of July 2019, the "Bitcoin dominance index", which is the percentage of of all blockchain assets that bitcoin represents, was 63%. Although this number may continue to rise in the short term, it will drop as blockchain technology and applications become more widespread. It's not that bitcoin won't continue to develop, it's just that other assets are likely to develop faster than bitcoin over the long term. So, from a long-term perspective, it is reasonable to have a 50% allocation for bitcoin.
-
-The remaining 50% is allocated to EOS and XIN with a 4:1 ratio. This is because I think that XIN will develop rapidly, maybe even faster than EOS.
-
-**Note:** The 5:4:1 ratio is based on USD prices at the inception of BOX. Over time, these ratios are not fixed. The fixed ratios are based on the components:
-
-> 10,000 BOX = 1 BTC + 1,500 EOS + 8 XIN
-
-The main misunderstanding people have of [Mixin](https://mixin.one) is that they think Mixin is merely a chat app. Actually, while Mixin Messenger is a chat app, or a social networking app, Mixin Network is a public chain, and Mixin Messenger is Mixin Network's first Dapp. The vast majority of public chains (even including EOS as of July 2019) still have no good Dapps. Most Dapps are basically just dice games. 
-
-Mixin Network has taken a different technical development path. 
-
-Other public chains have followed a *bottom-up* approach, first developing the public chain and then developing on-chain Dapps. This is called "building an ecosystem".
-
-Mixin Network has taken a *top-down* approach, first creating a great Dapp, Mixin Messenger, and then gradually completing the development of the base public chain. Thus, Mixin Messenger was first released in December of 2017, and, more than a year later, in February of 2019, the Mixin Network public chain was officially released. Dapps such as dice games can simply be bots running on Mixin Messenger. Ocean.one is a self-governing decentralized exchange running on Mixin Network, and it represents pioneering technology in the blockchain space. Other products that are being developed, like BOX and its b.watch exchange, would be impossible to realize without the Mixin Network public chain. It's not that I haven't tried other public chains, it's that they are unusable. This is the reason for XIN's allocation in BOX.
-
-In summary, BOX is an ETF product that I believe is very likely to succeed. If we lose money on it, it is because the blockchain industry has failed, and that is neither my fault nor yours. However, **as long as the blockchain industry does well, BOX will do well**, and the blockchain industry is just taking off, so we are likely to do well. It's that simple.
+BOX is 100% open and transparent. The addresses in which assets are held are public, and you can check them at any time. All of the records are on the Mixin public chain, and you can find instructions to check the addresses on the b.watch website. What amount of digital assets are in BOX? How many corresponding BOX tokens are circulating? How many BOX tokens are still in "cold storage" (including those for future distribution and those that have been redeemed)? The data to answer all of these questions are open and transparent, so BOX can not be casually inflated, and its circulating supply cannot be casually increased. If BOX is listed on any exchange, users can use also use this data to confirm that the exchange is not artificially inflating the supply of BOX. (As to why this is important, it will take a novice some time to learn and understand.)
 
 ## 2. About b.watch
 
-[b.watch](https://b.watch) is an exchange to buy BOX and redeem it for its components.
-
-Currently b.watch's profits may come from two areas:
-
-> 1. A 1% commission when BOX is redeemed.
-> 2. A 0.1% commission charged to both buyer and seller when BOX is traded on secondary exchanges, for a total commission of 0.2%.
-
-50% of these earnings will be periodically distributed to BOX holders. At first, these earnings don't seem like much, but over time the development of BOX and b.watch will be amazing. 
-
-Later on, other sources of potential income may include:
-
-> * Income from an EOS Block Producer
-> * Income from XIN nodes
-
-It takes a large amount of reserves and preparation to become an EOS Block Producer or an XIN node. When the time is right, b.watch plans to run these nodes, and after deducting operation costs 100% of proceeds will be distributed to BOX holders. 
-
-Under this system, the corporate value of b.watch is basically a 0.5% commission on BOX redemptions and a 0.1% commission on BOX trading. After seven years, 100% of the shares of b.watch will be distributed to my Regular Investing Practice Group members according to certain conditions. For instance:
-
-> * Time holding BOX
-> * Degree of successful completion of regular investing tasks
-> * Affiliate sales of the Regular Investing Practice Group
+[b.watch](https://b.watch) is an exchange to buy BOX and redeem it for its components. (December 2019 update: in the near future the URL will be updated to [https://firesbox.com](https://firesbox.com).)
 
 ## 3. About the BOX Regular Investing Practice Group
 
@@ -1523,10 +1450,6 @@ The *"BOX Regular Investing Practice Group"* is my blockchain education product.
 But what you might not have thought of is that what I want to do even more is to make money with lots of other people by sharing reliable investing knowledge and following my own advice. It's rare to have a chance like I have with the Regular Investing Practice Group to help my students make money by sharing knowledge. Fortunately, the rapid development of the blockchain industry has given us an unprecedented opportunity. 
 
 The Regular Investing Practice Group is a place for me to make money from my knowledge, but more importantly it is a way for students to **make money outside of the market**. I am in charge of creating valuable content, and students, in addition to learning and putting the knowledge into practice, have the opportunity to earn bitcoin by selling memberships to the group. That's right, it's not just earning money, it's earning bitcoin, because the Regular Investing Practice Group only accepts bitcoin.
-
-In addition to earning bitcoin by selling memberships, those who put the knowledge presented in the class into practice by completing their regular investing tasks also have other benefits:
-
-> * They are eligible to receive shares in b.watch, the first on-chain ETF exchange in the world, thus benefiting not only from the development of BOX, but also from the development of b.watch.
 
 In brief, the Regular Investing Practice Group is is a place for me and my students to **develop together and make money together**.
 
